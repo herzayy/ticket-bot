@@ -8,7 +8,7 @@ const client = new Client({
 
 const { token } = require('./config.json');
 
-client.login(process.env.token);
+client.login(process.env.TOKEN);
 client.commands = new Collection();
 
 //|▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬| Commandes Handler |▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬|
