@@ -1,0 +1,14 @@
+{
+  "name": "Bot ticket fivem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "herzayy",
+
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.1.4",
+    "start": "^5.1.0"
+  }
+
+}
